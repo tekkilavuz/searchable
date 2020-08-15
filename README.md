@@ -7,14 +7,6 @@ Searchable allows you to perform searches in a table giving priorities to each f
 
 This is not optimized for big searches, but sometimes you just need to make it simple (Although it is not slow).
 
-# Installation
-
-Simply add the package to your `composer.json` file and run `composer update`.
-
-```
-"nicolaslopezj/searchable": "1.*"
-```
-
 # Usage
 
 Add the trait to your model and your search rules.
